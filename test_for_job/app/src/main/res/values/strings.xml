@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test_for_job</string>
+    <string name="error_network_message">Соединение очень медленное, или отсутствует. Для работы приложения необходимо интернет соединение</string>
+    <string name="no_items">сегодня нет постов в выбранной вами категории</string>
+</resources>
